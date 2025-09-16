@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋, I'm Ayu Sansabila Natasya Putri  
 
-<!--
-**ayusansabila/ayusansabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student in **Information Technology** who is currently exploring the world of tech and design.  
+Right now, I'm still learning the basics but super excited to grow in this journey 🚀  
 
-Here are some ideas to get you started:
+### 🌱 What I'm learning
+- **Databases (MySQL / MariaDB)**  
+- **Python**  
+- **HTML & CSS**  
+- **UI/UX Design with Figma**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's connect!
+- 📧 Email: [ayusansabila09@gmail.com](mailto:ayusansabila09@gmail.com)  
+- 💼 LinkedIn: [ayusansabilaa](https://www.linkedin.com/in/ayusansabilaa)  
+- 📷 Instagram: [@ayusansabilaa](https://instagram.com/ayusansabilaa)  
+
+### ⚡ Fun fact
+I’m just starting out, but I believe **every expert was once a beginner** 🌸
