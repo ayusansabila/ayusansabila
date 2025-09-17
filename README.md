@@ -1,12 +1,9 @@
-<!-- 🌌 Banner Gradient -->
-![Banner](https://i.ibb.co/6J3W1jY/gradient-banner.png)
-
 <h1 align="center">✨ Hi, I'm Ayu Sansabila Natasya Putri ✨</h1>
 <p align="center">🌙 Information Technology Student | 💜 Night Owl Coder | 📱 TikTok Scroller</p>
 
 ---
 
-## 💜 About Me
+## About Me
 - 🌱 Currently exploring: **Python, Databases, MySQL, and UI/UX**  
 - 🌙 Night owl who often stays up late in front of the laptop  
 - 📱 Loves scrolling TikTok when taking a break from coding  
@@ -28,10 +25,7 @@
 
 ---
 
-## 🌌 My Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding at night"/>
-</p>
+
 
 ---
 
