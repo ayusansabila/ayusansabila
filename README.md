@@ -48,10 +48,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎬 My Daily Vibes  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayusansabila&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayusansabila&theme=tokyonight" height="150"/>
+  <!-- Animasi cewek scroll tiktok -->
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="scroll tiktok"/>  
+
+  <!-- Animasi cewek belajar / nugas -->
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="200" alt="nugas"/>  
+
+  <!-- Animasi cewek begadang depan laptop -->
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="begadang laptop"/>  
 </p>
 
 <p align="center">
