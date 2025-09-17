@@ -61,7 +61,7 @@
   <em>"Code 🌙, Learn 🌌, Create 🌠, Repeat ♾️"</em>
 </p>
 
-## 🐍 Contribution Snake
+
 ![Snake animation](https://raw.githubusercontent.com/ayusansabila/ayusansabila/output/snake.svg)
 
 <!-- Footer Banner -->
