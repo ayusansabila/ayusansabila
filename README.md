@@ -1,47 +1,51 @@
-
-
-<h1 align="center">✨ Hi, I'm Ayu Sansabila Natasya Putri ✨</h1>
-<p align="center">🌙 Information Technology Student | 💜 Night Owl Coder | 📱 TikTok Scroller</p>
+<h1 align="center">🌌 Hi, I'm Ayu Sansabila Natasya Putri 🌌</h1>
+<p align="center">Information Technology Student · Night Owl Coder · Digital Explorer</p>
 
 ---
 
-## 💜 About Me
-- 🌱 Currently exploring: **Python, Databases, MySQL, and UI/UX**  
-- 🌙 Night owl who often stays up late in front of the laptop  
-- 📱 Loves scrolling TikTok when taking a break from coding  
-- 💡 Motto: *"Keep learning, even if it’s just one small step every day."*
+## About Me
+- 🌱 Learning: **Python, Databases, MySQL, and UI/UX**  
+- 🌙 Often coding late at night with coffee ☕  
+- 📱 Tiktok scrolling as a little escape  
+- 🌌 Believing in: *"Small progress is still progress."*
 
 ---
 
 ## 🪐 Tech Stack
-![Python](https://img.shields.io/badge/Python-7F00FF?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4B0082?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-483D8B?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🔗 Connect with Me
-- 📸 Instagram: [@ayusansabilaa](https://instagram.com/ayusansabilaa)  
-- ✉️ Email: **ayusansabila09@gmail.com**
+## 🔗 Connect
+<p align="center">
+  <a href="https://instagram.com/ayusansabilaa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-8e44ad?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:ayusansabila09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌌 My Vibes
+## 🌌 Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding at night"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420" alt="Coding late night aesthetic"/>
 </p>
 
 ---
 
 ## 🚀 Goals
-- Master **Python & Databases**  
-- Stay consistent in **UI/UX learning**  
-- Build meaningful projects that help others  
+- Deep dive into **Python & Databases**  
+- Stay consistent in **UI/UX journey**  
+- Build projects that are helpful & creative 🌙  
 
 ---
 
 ## ✨ Quote
 <p align="center">
-  <em>"Code 🌙, Learn 🌌, Scroll 📱, Repeat ♾️"</em>
+  <em>"Code 🌙 · Learn 🌌 · Create 🌠 · Repeat ♾️"</em>
 </p>
