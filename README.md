@@ -56,11 +56,6 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="begadang laptop"/>  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusansabila&layout=compact&theme=tokyonight" height="120"/>
-</p>
-
-
 
 <p align="center">
   <em>"Code 🌙, Learn 🌌, Create 🌠, Repeat ♾️"</em>
