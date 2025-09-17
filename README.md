@@ -3,7 +3,7 @@
 
 ---
 
-## 💜 About Me
+##  About Me
 - 🌱 Currently exploring: **Python, Databases, MySQL, and UI/UX**  
 - 🌙 Night owl who often stays up late in front of the laptop  
 - 📱 Loves scrolling TikTok when taking a break from coding  
