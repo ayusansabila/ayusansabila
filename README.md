@@ -4,10 +4,7 @@
 Right now, I'm still learning the basics but super excited to grow in this journey 🚀  
 
 ### 🌱 What I'm learning
-- **Databases (MySQL / MariaDB)**  
-- **Python**  
-- **HTML & CSS**  
-- **UI/UX Design with Figma**  
+- **Databases (.......)**
 
 ### 📫 Let's connect!
 - 📧 Email: [ayusansabila09@gmail.com](mailto:ayusansabila09@gmail.com)  
