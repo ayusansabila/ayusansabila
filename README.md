@@ -46,18 +46,13 @@
   <a href="mailto:ayusansabila09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-## 🎬 My Daily Vibes  
+--- 
 
 <p align="center">
-  <!-- Animasi cewek scroll tiktok -->
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="scroll tiktok"/>  
 
-  <!-- Animasi cewek belajar / nugas -->
   <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="200" alt="nugas"/>  
 
-  <!-- Animasi cewek begadang depan laptop -->
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="begadang laptop"/>  
 </p>
 
@@ -65,9 +60,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusansabila&layout=compact&theme=tokyonight" height="120"/>
 </p>
 
----
 
-## ✨ Quote
+
 <p align="center">
   <em>"Code 🌙, Learn 🌌, Create 🌠, Repeat ♾️"</em>
 </p>
