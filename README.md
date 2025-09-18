@@ -64,6 +64,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/ayusansabila/ayusansabila/output/snake.svg)
 
+
 <!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=150&section=footer"/>
