@@ -1,10 +1,10 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Ayu%20Sansabila%20🌌&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Hey!%20I%20am%20Ayu%20Sansabila%20Natasya%20Putri&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h2 align="center">✨ Hello World! I'm Ayu Sansabila ✨</h2>
-<p align="center">🌙 IT Student | Night Owl Coder | 📱 TikTok Scroller</p>
+<h2 align="center">Hello there 👋, I'm Ayu Sansabila Natasya Putri</h2>
+<p align="center">I am an Information Technology undergraduate student at Yogyakarta State University with a strong interest in the field of technology, particularly in application development.</p>
 
 ---
 
@@ -29,7 +29,6 @@
 </p>
 
 ---
-
 
 ## 🪐 Languages & Tools
 <p align="center">
