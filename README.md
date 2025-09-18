@@ -24,17 +24,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayusansabila&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusansabila&layout=compact&theme=radical" alt="langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayusansabila&theme=radical&hide_border=false" alt="streak" />
-</p>
-
----
-
 
 ---
 
