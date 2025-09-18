@@ -62,8 +62,6 @@
 </p>
 
 
-![Snake animation](https://raw.githubusercontent.com/ayusansabila/ayusansabila/output/snake.svg)
-
 
 <!-- Footer Banner -->
 <p align="center">
