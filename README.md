@@ -8,11 +8,36 @@
 
 ---
 
-## About Me
+## 🌙 About Me
 - 🌱 Currently learning: **Python, Databases, MySQL, UI/UX, PHP**  
 - 🌌 Night owl who loves coding late at night  
 - 📱 Scrolling TikTok when taking breaks hehe  
 - 💡 Motto: *"Keep learning, even if it’s just one small step every day."*
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/ayusansabilaa"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:ayusansabila09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayusansabila&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusansabila&layout=compact&theme=radical" alt="langs" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayusansabila&theme=radical&hide_border=false" alt="streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/ayusansabila/ayusansabila/output/snake.svg)
 
 ---
 
@@ -30,38 +55,16 @@
 
 ---
 
-## ⚡ Skills Progress
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Intermediate-6A0DAD?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-Learning-4B0082?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-Beginner-9370DB?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Word-Good-8A2BE2?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-</p>
-
----
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://instagram.com/ayusansabilaa"><img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:ayusansabila09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
---- 
-
+## 🎬 Fun Side of Me
 <p align="center">
   <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="scroll tiktok"/>  
-
   <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="200" alt="nugas"/>  
-
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="begadang laptop"/>  
 </p>
-
 
 <p align="center">
   <em>"Code 🌙, Learn 🌌, Create 🌠, Repeat ♾️"</em>
 </p>
-
-
 
 <!-- Footer Banner -->
 <p align="center">
