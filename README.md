@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hey!%20Ayu%20Sansabila%20Natasya%20PUTRI%0AStudent%20At%20Yogyakarta%20State%20University&fontAlign=50&fontAlignY=40&color=240046,3C096C,5A189A,7B2CBF,9D4EDD&fontColor=C77DFF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hey!%20Ayu%20Sansabila%20Natasya%20PUTRI%0AStudent%20At%20Yogyakarta%20State%20University&fontAlign=50&fontAlignY=40&color=6A0DAD,C77DFF&gradientType=linear&fontColor=C77DFF&animation=fadeIn"/>
 </p>
 
 ---
