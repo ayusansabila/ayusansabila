@@ -3,10 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Hey!%20I%20am%20Ayu%20Sansabila%20Natasya%20Putri&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35"/>
 </p>
 <p align="center">
-  <span style="font-size:24px; font-family:'Papyrus', cursive; color:#9D4EDD;">
+  <span style="font-size:28px; font-family:'Pacifico', cursive; color:#C77DFF;">
     🚀 Student of Information Technology | Yogyakarta State University 🚀
   </span>
 </p>
+
 
 ---
 
@@ -84,7 +85,6 @@
 </p>
 
 <p align="center">
-  <em>"In a world full of code, be the one who creates magic ✨"</em>
 </p>
 
 <p align="center">
