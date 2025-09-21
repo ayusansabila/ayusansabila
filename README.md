@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Hey!%20I%20am%20Ayu%20Sansabila%20Natasya%20Putri&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35"/>
 </p>
 <p align="center">
-  <span style="font-size:28px; font-family:'Pacifico', cursive; color:#C77DFF;">
+  <span style="font-size:30px; font-family:'Montserrat', cursive; color:#C77DFF;">
     🚀 Student of Information Technology | Yogyakarta State University 🚀
   </span>
 </p>
