@@ -1,6 +1,6 @@
 <!-- Elegant Purple-Navy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=240046,3C096C,5A189A,7B2CBF,9D4EDD&height=200&section=header&text=Hey!%20I%20am%20Ayu%20Sansabila&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=IT%20Student%20at%20Yogyakarta%20State%20University&descAlign=50&descAlignY=65&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0F0A2E,1A0A3D,240A5A,2E1065,3C1975,4A1F85&height=200&section=header&text=Hey!%20I%20am%20Ayu%20Sansabila&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=IT%20Student%20at%20Yogyakarta%20State%20University&descAlign=50&descAlignY=65&descSize=18"/>
 </p>
 ---
 
