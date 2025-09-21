@@ -114,5 +114,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=C77DFF&center=true&vCenter=true&width=650&height=50&lines=Thanks+for+visiting+my+purple+galaxy!+💜;Let's+build+something+magical+together!+✨;Keep+coding+in+purple+dreams!+🌌"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=150&section=footer"/>
 </p>
