@@ -2,7 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Hey!%20I%20am%20Ayu%20Sansabila%20Natasya%20Putri&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35"/>
 </p>
-<p align="center"> Student at Information Technology in Yogyakarta State University.</p>
+<p align="center">
+  <span style="font-size:24px; font-family:'Papyrus', cursive; color:#9D4EDD;">
+    🚀 Student of Information Technology | Yogyakarta State University 🚀
+  </span>
+</p>
+
 ---
 
 <p align="center">
@@ -106,11 +111,6 @@
 </p>
 
 ---
-
-<!-- Animated Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=240046,3C096C,5A189A,7B2CBF,9D4EDD&height=200&section=footer&animation=twinkling"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=150&section=footer"/>
