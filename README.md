@@ -1,10 +1,9 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ayu%20Sansabila%20🌌&fontAlign=50&fontAlignY=40&color=000428,3C096C,5A189A,7B2CBF,9D4EDD&fontColor=E0AAFF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hey!%20Ayu%20Sansabila%20Natasya%20PUTRI%0AStudent%20At%20Yogyakarta%20State%20University&fontAlign=50&fontAlignY=40&color=240046,3C096C,5A189A,7B2CBF,9D4EDD&fontColor=C77DFF&animation=fadeIn"/>
 </p>
----
 
-## 🚀 My Purple Galaxy Tech Stack
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-240046?style=for-the-badge&logo=python&logoColor=C77DFF" />
@@ -22,8 +21,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Purple Constellation
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayusansabila&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=240046&title_color=C77DFF&icon_color=E0AAFF&text_color=C77DFF"/>
@@ -49,8 +46,6 @@
 
 ---
 
-## 🌟 Connect Across The Purple Galaxy
-
 <p align="center">
   <a href="https://instagram.com/ayusansabilaa">
     <img src="https://img.shields.io/badge/Instagram-240046?style=for-the-badge&logo=instagram&logoColor=C77DFF&labelColor=5A189A"/>
@@ -68,8 +63,6 @@
 
 ---
 
-## 🎯 Current Mission
-
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </p>
@@ -82,7 +75,6 @@
 
 ---
 
-## 🌌 My Coding Mantra
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
@@ -104,8 +96,6 @@
 </p>
 
 ---
-
-## 💫 Weekend Vibes
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
