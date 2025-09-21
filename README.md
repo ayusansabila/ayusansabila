@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Hey!%20I%20am%20Ayu%20Sansabila%20Natasya%20Putri&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35"/>
 </p>
-<h2 align="center">Hello there 👋, I'm Ayu Sansabila Natasya Putri</h2>
-<p align="center">I am an Information Technology undergraduate student at Yogyakarta State University with a strong interest in the field of technology, particularly in application development.</p>
+<p align="center"> Student at Information Technology in Yogyakarta State University.</p>
 ---
 
 <p align="center">
