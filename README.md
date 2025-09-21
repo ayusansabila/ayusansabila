@@ -1,7 +1,9 @@
-<!-- Elegant Purple-Navy Header -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0F0A2E,1A0A3D,240A5A,2E1065,3C1975,4A1F85&height=200&section=header&text=Hey!%20I%20am%20Ayu%20Sansabila&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=IT%20Student%20at%20Yogyakarta%20State%20University&descAlign=50&descAlignY=65&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Hey!%20I%20am%20Ayu%20Sansabila%20Natasya%20Putri&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35"/>
 </p>
+<h2 align="center">Hello there 👋, I'm Ayu Sansabila Natasya Putri</h2>
+<p align="center">I am an Information Technology undergraduate student at Yogyakarta State University with a strong interest in the field of technology, particularly in application development.</p>
 ---
 
 <p align="center">
