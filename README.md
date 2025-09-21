@@ -1,3 +1,7 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ayu%20Sansabila%20🌌&fontAlign=50&fontAlignY=40&color=000428,3C096C,5A189A,7B2CBF,9D4EDD&fontColor=E0AAFF&animation=fadeIn"/>
+</p>
 ---
 
 ## 🚀 My Purple Galaxy Tech Stack
