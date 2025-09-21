@@ -1,6 +1,6 @@
-<!-- Header Banner -->
+<!-- Animated Header with Purple-Navy Galaxy Theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hey!%20Ayu%20Sansabila%20Natasya%20PUTRI%0AStudent%20At%20Yogyakarta%20State%20University&fontAlign=50&fontAlignY=40&color=6A0DAD,C77DFF&gradientType=linear&fontColor=C77DFF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF&height=320&section=header&text=Hey!%20Ayu%20Sansabila%20Natasya%20PUTRI&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=25&desc=Student%20At%20Yogyakarta%20State%20University%20🎓%20%7C%20Future%20Tech%20Innovator%20💜&descAlign=50&descAlignY=65&descSize=20&fontAlign=50"/>
 </p>
 
 ---
@@ -32,8 +32,6 @@
 </p>
 
 ---
-
-## 🌙 My Coding Journey
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ayusansabila&theme=discord&no-frame=true&no-bg=true&row=1&column=7"/>
@@ -104,7 +102,7 @@
 </p>
 
 <p align="center">
-  <strong>Code 💻 → Learn 📚 → TikTok 📱 → Sleep 😴 → Repeat ♾️</strong>
+  <strong> 💻 → 📚 →📱 → 😴 → ♾️</strong>
 </p>
 
 ---
