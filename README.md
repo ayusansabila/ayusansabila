@@ -1,8 +1,7 @@
-<!-- Animated Header with Purple-Navy Galaxy Theme -->
+<!-- Elegant Purple-Navy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF&height=320&section=header&text=Hey!%20Ayu%20Sansabila%20Natasya%20PUTRI&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=25&desc=Student%20At%20Yogyakarta%20State%20University%20🎓%20%7C%20Future%20Tech%20Innovator%20💜&descAlign=50&descAlignY=65&descSize=20&fontAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=240046,3C096C,5A189A,7B2CBF,9D4EDD&height=200&section=header&text=Hey!%20I%20am%20Ayu%20Sansabila&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=IT%20Student%20at%20Yogyakarta%20State%20University&descAlign=50&descAlignY=65&descSize=18"/>
 </p>
-
 ---
 
 <p align="center">
